@@ -1,2 +1,2 @@
-# password-generator-python
+# Password Generator Python
 Minimal password generator in Python
